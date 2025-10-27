@@ -72,13 +72,14 @@
 ## 6️⃣ Visualisations
 
 ### 1️⃣ Courbe des scores par épisode - Agent immédiat
-![Courbe Immédiat](Explication/images/immediate_training.png)
+![Courbe Immédiat](../images/immediate_training.png)
 
 ### 2️⃣ Courbe des scores par épisode - Agent périodique
-![Courbe Périodique](Explication/images/periodic_training.png)
+![Courbe Périodique](../images/periodic_training.png)
 
 ### 3️⃣ Courbe des scores par épisode - Agent simple sans replay memory
-![Courbe Simple](Explication/images/simple_agent_training.png)
+![Courbe Simple](../images/simple_agent_training.png)
+
 
 > Les visualisations permettent de comparer la stabilité et la répétabilité des trois approches.
 
