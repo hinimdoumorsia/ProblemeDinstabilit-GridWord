@@ -89,3 +89,4 @@
 - L’**agent périodique avec replay memory** consolide ses expériences pour stabiliser l’apprentissage.  
 - L’**agent simple** met à jour ses Q-values directement, sans mémoire, et réussit efficacement dans ce GridWorld simple.  
 - Les visualisations confirment la constance des scores et le succès de chaque épisode.
+---
